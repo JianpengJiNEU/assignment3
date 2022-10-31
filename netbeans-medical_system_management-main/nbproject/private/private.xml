@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/jjp/Documents/NetBeansProjects/netbeans-medical_system_management-main/src/ui/ViewEncounterJPanel.java</file>
+            <file>file:/C:/Users/jjp/Documents/NetBeansProjects/netbeans-medical_system_management-main/src/medicalsystem/DoctorDirectory.java</file>
+            <file>file:/C:/Users/jjp/Documents/NetBeansProjects/netbeans-medical_system_management-main/src/ui_doctor/DoctorJPanel.java</file>
+            <file>file:/C:/Users/jjp/Documents/NetBeansProjects/netbeans-medical_system_management-main/src/ui_doctor/PatientsForDiagnosisJPanel.java</file>
+            <file>file:/C:/Users/jjp/Documents/NetBeansProjects/netbeans-medical_system_management-main/src/ui_person/AddPersonJPanel.java</file>
+            <file>file:/C:/Users/jjp/Documents/NetBeansProjects/netbeans-medical_system_management-main/src/ui_checkResult/CheckResultJPanel.java</file>
+            <file>file:/C:/Users/jjp/Documents/NetBeansProjects/netbeans-medical_system_management-main/src/medicalsystem/EncounterHistory.java</file>
+            <file>file:/C:/Users/jjp/Documents/NetBeansProjects/netbeans-medical_system_management-main/src/medicalsystem/Encounter.java</file>
+            <file>file:/C:/Users/jjp/Documents/NetBeansProjects/netbeans-medical_system_management-main/src/ui/AddPatientJPanel.java</file>
+            <file>file:/C:/Users/jjp/Documents/NetBeansProjects/netbeans-medical_system_management-main/src/medicalsystem/DiagnosisRequestDirectory.java</file>
+            <file>file:/C:/Users/jjp/Documents/NetBeansProjects/netbeans-medical_system_management-main/src/ui_patient/PatientJPanel.java</file>
+            <file>file:/C:/Users/jjp/Documents/NetBeansProjects/netbeans-medical_system_management-main/src/medicalsystem/VitalSign.java</file>
+            <file>file:/C:/Users/jjp/Documents/NetBeansProjects/netbeans-medical_system_management-main/src/ui_patient/RequestHistoryJPanel.java</file>
+            <file>file:/C:/Users/jjp/Documents/NetBeansProjects/netbeans-medical_system_management-main/src/medicalsystem/UserDirectory.java</file>
+            <file>file:/C:/Users/jjp/Documents/NetBeansProjects/netbeans-medical_system_management-main/src/medicalsystem/User.java</file>
+            <file>file:/C:/Users/jjp/Documents/NetBeansProjects/netbeans-medical_system_management-main/src/medicalsystem/Hospital.java</file>
+            <file>file:/C:/Users/jjp/Documents/NetBeansProjects/netbeans-medical_system_management-main/src/ui/ViewPatientJPanel.java</file>
+            <file>file:/C:/Users/jjp/Documents/NetBeansProjects/netbeans-medical_system_management-main/src/ui_city/UpdateCommunityJPanel.java</file>
+            <file>file:/C:/Users/jjp/Documents/NetBeansProjects/netbeans-medical_system_management-main/src/ui/AddEncounterJPanel.java</file>
+            <file>file:/C:/Users/jjp/Documents/NetBeansProjects/netbeans-medical_system_management-main/src/ui/AdminSystemJPanel.java</file>
+            <file>file:/C:/Users/jjp/Documents/NetBeansProjects/netbeans-medical_system_management-main/src/medicalsystem/HospitalDirectory.java</file>
+            <file>file:/C:/Users/jjp/Documents/NetBeansProjects/netbeans-medical_system_management-main/src/ui_patient/DiagnosisRequestJPanel.java</file>
+            <file>file:/C:/Users/jjp/Documents/NetBeansProjects/netbeans-medical_system_management-main/src/ui_person/UpdatePersonJPanel.java</file>
+            <file>file:/C:/Users/jjp/Documents/NetBeansProjects/netbeans-medical_system_management-main/src/medicalsystem/House.java</file>
+            <file>file:/C:/Users/jjp/Documents/NetBeansProjects/netbeans-medical_system_management-main/src/ui_doctor/DiagnosisJPanel.java</file>
+            <file>file:/C:/Users/jjp/Documents/NetBeansProjects/netbeans-medical_system_management-main/src/medicalsystem/DiagnosisRequest.java</file>
+            <file>file:/C:/Users/jjp/Documents/NetBeansProjects/netbeans-medical_system_management-main/src/medicalsystem/Doctor.java</file>
+            <file>file:/C:/Users/jjp/Documents/NetBeansProjects/netbeans-medical_system_management-main/src/ui_encounter/EncounterHistoryJPanel.java</file>
+            <file>file:/C:/Users/jjp/Documents/NetBeansProjects/netbeans-medical_system_management-main/src/ui/ManagePatientJPanel.java</file>
+            <file>file:/C:/Users/jjp/Documents/NetBeansProjects/netbeans-medical_system_management-main/src/medicalsystem/MedicalSystem.java</file>
+            <file>file:/C:/Users/jjp/Documents/NetBeansProjects/netbeans-medical_system_management-main/src/ui_city/AddCommunityJPanel.java</file>
+            <file>file:/C:/Users/jjp/Documents/NetBeansProjects/netbeans-medical_system_management-main/src/ui/MainJFrame.java</file>
+        </group>
+    </open-files>
+</project-private>
